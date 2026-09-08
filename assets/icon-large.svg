@@ -1,0 +1,10 @@
+<svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="256" height="256" rx="32" fill="#1a1a2e"/>
+  <!-- Document lines representing academic text -->
+  <path d="M64 60 L192 60 M64 90 L160 90 M64 120 L176 120 M64 150 L130 150 M64 180 L170 180" stroke="#e94560" stroke-width="5" stroke-linecap="round" opacity="0.8"/>
+  <!-- Shield with checkmark representing AI detection reduction -->
+  <circle cx="192" cy="120" r="32" fill="none" stroke="#0f3460" stroke-width="8"/>
+  <path d="M176 120 L188 132 L212 108" stroke="#16c79a" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Text label -->
+  <text x="128" y="230" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#e94560" text-anchor="middle">AIGC REDUCER</text>
+</svg>
