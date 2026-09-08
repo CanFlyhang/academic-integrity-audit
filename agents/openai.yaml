@@ -1,0 +1,4 @@
+interface:
+  display_name: "Academic Integrity Audit"
+  short_description: "Audit similarity, sources, and AI-writing risk signals"
+  default_prompt: "Use $academic-integrity-audit to audit my uploaded manuscript and produce an evidence-based visual report with revision advice."
